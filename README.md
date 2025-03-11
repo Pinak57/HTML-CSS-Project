@@ -1,2 +1,2 @@
 # HTML-CSS-Project
-html &amp; css
+For beginner
